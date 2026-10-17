@@ -1,0 +1,15 @@
+{
+  "expo": {
+    "name": "SafariLax Concierge",
+    "slug": "deijawudt",
+    "owner": "dejawoots-team",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "world.safarilax.concierge",
+      "versionCode": 1,
+      "permissions": ["INTERNET"]
+    }
+  }
+}
